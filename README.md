@@ -1,98 +1,126 @@
-Hi, I'm Shaik Naseeruddin 👋
+# Hi, I'm Shaik Naseeruddin 👋
 
-🚀 Java Backend Engineer | Spring Boot | Microservices | Cloud
+## Java Developer | Backend Engineering | Enterprise Integrations
 
-I’m a Java Backend Engineer at Tata Consultancy Services (TCS) with 2+ years of experience building backend services, enterprise integrations, and reliability-focused automation systems.
+I'm a Java Developer at Tata Consultancy Services (TCS) with nearly 3 years of experience building enterprise automation solutions, backend services, and system integrations using Core Java, REST APIs, and SQL.
 
-I enjoy designing systems that scale well, fail gracefully, and recover automatically.
+My work focuses on developing reliable systems that automate business processes, integrate enterprise applications, process operational data, and improve system observability. I enjoy solving backend engineering challenges involving integrations, automation, monitoring, and scalable software design.
 
-💼 Professional Experience
-Java Backend Engineer — Tata Consultancy Services
+---
 
-June 2023 – Present
+## 💼 Professional Experience
 
-Designed and developed backend components integrating Salesforce, Navision (Business Central), and Azure iPaaS.
+### Java Developer — Tata Consultancy Services
 
-Built order lifecycle monitoring to detect stuck transactions, deadlocks, and integration failures.
+**June 2023 – Present**
 
-Implemented retry and controlled resend mechanisms to improve transaction recovery.
+**Product:** Ignio Enterprise Automation Platform
 
-Developed batch-processing modules using Salesforce Bulk APIs with async job handling.
+**Domain:** Enterprise Automation, IT Service Management, Supply Chain Operations
 
-Integrated GraphQL APIs with Freshservice for automated incident creation and lifecycle management.
+* Designed, developed, tested, deployed, and supported 24 production automation use cases that reduced manual intervention across business workflows.
+* Built Java-based integration services connecting Salesforce, Microsoft Dynamics Business Central, Oracle Transportation Management (OTM), and Freshservice using REST APIs.
+* Developed backend services for log collection, event processing, automated incident detection, and remediation workflows.
+* Implemented OAuth 2.0 Client Credentials authentication flows for secure communication with enterprise systems.
+* Designed relational database schemas and SQL-based monitoring solutions for workflow execution tracking and operational visibility.
+* Built monitoring and alerting solutions that prevented 200+ high-priority escalations per month.
+* Implemented retry mechanisms, recovery logic, validation checks, and fault-tolerant processing to improve workflow reliability and execution success rates.
+* Contributed throughout the SDLC including requirement analysis, solution design, development, testing, deployment, monitoring, and production support.
 
-Created SQL-based monitoring logic for dashboards and job queues.
+---
 
-Designed alert evaluation logic with duplicate suppression and priority classification.
+## 🛠 Tech Stack
 
-Built automated post-deployment smoke test workflows.
+### Backend Development
 
-Reduced recurring manual monitoring effort by 4+ hours/day through backend-driven automation.
+Java • Spring Boot • REST APIs • Spring Data JPA • Hibernate • SQL
 
-Worked with CI/CD pipelines (Jenkins, Azure DevOps) for deployments and validations.
+### Databases
 
-🛠 Tech Stack
-Backend
+MySQL • PostgreSQL
 
-Java 17 | Spring Boot | Spring Framework | Hibernate | REST APIs | Microservices
+### Integration & Messaging
 
-Integration
+REST APIs • OAuth 2.0 • Apache Kafka
 
-GraphQL | Salesforce Bulk API | JSON
+### Cloud & DevOps
 
-Databases
+AWS • Azure • Docker • Kubernetes • Jenkins • Azure DevOps
 
-MySQL
+### Monitoring & Tools
 
-Cloud & DevOps
+JUnit • Postman • Log4j • SLF4J • Git • GitHub
 
-Microsoft Azure | AWS | Jenkins | Azure DevOps
+---
 
-Tools
+## 🚀 Featured Projects
 
-JUnit | Log4j / SLF4J | Postman | Git | GitHub
+### Microservices Banking Platform
 
-🚀 Key Projects
-🔹 Monitoring & Incident Management Platform
+**Java | Spring Boot | Kafka | Docker | Kubernetes | MySQL**
 
-Java | Spring Boot | REST APIs | MySQL | Azure
+* Developed four independent microservices using the database-per-service pattern.
+* Implemented REST-based synchronous communication and Kafka-based event-driven processing.
+* Applied resilience patterns including retries, timeout handling, and idempotency controls.
+* Built observability dashboards using Prometheus and Grafana.
 
-Built backend-driven monitoring system for API failures and stuck transactions.
+### Equipment Lending Portal
 
-Automated incident creation using GraphQL integrations.
+**Java | Spring Boot | React | MySQL | Docker**
 
-Reduced manual monitoring effort and improved production stability.
+* Developed a full-stack equipment lending platform with role-based access control.
+* Built secure REST APIs and documented services using Swagger/OpenAPI.
+* Containerized frontend and backend services using Docker Compose.
 
-🔹 Detection of Lung Cancer in CT Images
+### ACEest Fitness & Gym Platform
 
-Python | Image Processing | Machine Learning
+**AWS | Docker | Kubernetes | Jenkins | React | Flask**
 
-Developed ML-based system for early-stage lung cancer detection using CT scan images.
+* Developed a cloud-native fitness management platform.
+* Implemented CI/CD pipelines and multiple Kubernetes deployment strategies.
+* Deployed services on AWS with scalable infrastructure and automated delivery pipelines.
 
-🔹 Predicting Smoking Status Using Binary Classification
+---
 
-Machine Learning
+## 🎓 Education
 
-Built a binary classification model using health indicators and evaluated performance with precision, recall, and accuracy metrics.
+### M.Tech – Software Engineering (WILP)
 
-🎓 Education
+BITS Pilani (Expected 2026)
 
-M.Tech – Software Engineering (WILP)
-BITS Pilani (Hyderabad Campus) — Expected 2026
+Relevant Areas:
+Software Architecture • Distributed Systems • Cloud Computing • DevOps • Full Stack Development • Database Design • Software Quality Assurance
 
-B.Tech – Electronics & Communication Engineering
-Anurag Engineering College — 2023
+### B.Tech – Electronics & Communication Engineering
 
-📜 Certification
+Anurag Engineering College (2023)
 
-Microsoft Certified: Designing and Implementing DevOps Solutions (AZ-400)
+---
 
-🌐 Connect With Me
+## 📜 Certification
 
-LinkedIn: https://www.linkedin.com/in/shaik-naseeruddin-120780244/
+Microsoft Certified: Designing and Implementing Microsoft DevOps Solutions (AZ-400)
 
-GitHub: https://github.com/shaiknaseeruddin
+---
 
-Email: naseeruddin1808@gmail.com
+## 🌱 Currently Learning
 
-Build backend systems that scale, fail gracefully, and recover automatically.
+* Advanced Spring Boot
+* Distributed Systems Design
+* Apache Kafka
+* Microservices Architecture
+* System Design
+* Kubernetes
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/shaik-naseeruddin-120780244](http://www.linkedin.com/in/shaik-naseeruddin-120780244)
+
+
+Email: [naseeruddin1808@gmail.com](mailto:naseeruddin1808@gmail.com)
+
+---
+
+"Building backend systems that automate processes, improve reliability, and scale with business needs."
